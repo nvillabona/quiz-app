@@ -14,6 +14,7 @@
           :increment="increment" />
         </b-col>
       </b-row>
+      <Thumbnail />
     </b-container>
   </div>
 </template>
@@ -21,12 +22,14 @@
 <script>
 import Header from "./components/Header.vue";
 import QuestionBox from "./components/QuestionBox.vue";
+import Thumbnail from "./components/Thumbnail";
 
 export default {
   name: "App",
   components: {
     Header,
     QuestionBox,
+    Thumbnail
   },
   data() {
     return {
