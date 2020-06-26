@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ee6ada8a-f169-4f0b-9b36-79ff0eb2a9fa/deploy-status)](https://app.netlify.com/sites/quiz-app-nvillabona/deploys)
 # quiz
 
 ## Project setup
